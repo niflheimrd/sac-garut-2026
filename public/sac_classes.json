@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cls-prestasi",
+    "name": "Prestasi",
+    "duration": "> 1 Tahun",
+    "description": "Program pembinaan atlit renang prestasi SAC Garut dengan materi ketahanan, perbaikan teknik renang 4 gaya, catatan waktu, dan persiapan kompetisi.",
+    "targetFocus": "Penguasaan 4 gaya, kecepatan, start, flip-turn, dan stamina kompetisi",
+    "coachUtama": "Coach Fatur",
+    "asistenCoach1": "Coach Agung",
+    "asistenCoach2": "Coach Gema"
+  },
+  {
+    "id": "cls-lanjutan",
+    "name": "Lanjutan",
+    "duration": "6 - 12 Bulan",
+    "description": "Program pengembangan renang tingkat lanjut untuk penyempurnaan gaya renang dan peningkatan kecepatan.",
+    "targetFocus": "Penyempurnaan gaya dada, gaya bebas, kupu-kupu, dan punggung",
+    "coachUtama": "Coach Gema",
+    "asistenCoach1": "Coach Agis",
+    "asistenCoach2": "Coach Bin"
+  },
+  {
+    "id": "cls-moderat",
+    "name": "Pemula Moderat",
+    "duration": "3 - 6 Bulan",
+    "description": "Program transisi dari adaptasi air menuju penguasaan gerakan renang mandiri tanpa pelampung dengan koordinasi tangan dan kaki.",
+    "targetFocus": "Meluncur mandiri, tendangan kaki berirama, kayuhan tangan dasar, dan pengambilan napas samping",
+    "coachUtama": "Coach Ayu",
+    "asistenCoach1": "Coach Amey",
+    "asistenCoach2": "Coach Amal"
+  },
+  {
+    "id": "cls-basic",
+    "name": "Pemula Basic",
+    "duration": "< 3 Bulan",
+    "description": "Program pengenalan air (water adaptation) dan keselamatan kolam untuk perenang pemula dan anak-anak yang baru bergabung di SAC Garut.",
+    "targetFocus": "Kenyamanan di air, menyelam, gelembung (bubbles), mengapung bintang, dan meluncur dengan papan",
+    "coachUtama": "Coach Ryu",
+    "asistenCoach1": "Coach Rofiq",
+    "asistenCoach2": "Coach Ayu"
+  }
+]

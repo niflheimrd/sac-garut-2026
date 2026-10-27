@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cch-Fatur",
+    "name": "Coach Fatur",
+    "role": "Pelatih Kepala & Koordinator",
+    "phone": "081234567801",
+    "bio": "Pelatih kepala dan koordinator utama SAC Garut."
+  },
+  {
+    "id": "cch-Agung",
+    "name": "Coach Agung",
+    "role": "Pelatih Lanjutan",
+    "phone": "081234567802",
+    "bio": "Pelatih kelas lanjutan."
+  },
+  {
+    "id": "cch-Gema",
+    "name": "Coach Gema",
+    "role": "Pelatih Prestasi & Atlet",
+    "phone": "081234567803",
+    "bio": "Pelatih pembinaan prestasi dan atlet."
+  },
+  {
+    "id": "cch-Ayu",
+    "name": "Coach Ayu",
+    "role": "Pelatih Pemula Basic",
+    "phone": "081234567804",
+    "bio": "Pelatih program pemula basic."
+  },
+  {
+    "id": "cch-Amey",
+    "name": "Coach Amey",
+    "role": "Pelatih Pemula Basic",
+    "phone": "081234567805",
+    "bio": "Pelatih program pemula basic."
+  },
+  {
+    "id": "cch-Agis",
+    "name": "Coach Agis",
+    "role": "Pelatih Pemula Moderate",
+    "phone": "081234567806",
+    "bio": "Pelatih program pemula moderate."
+  },
+  {
+    "id": "cch-Ryu",
+    "name": "Coach Ryu",
+    "role": "Pelatih Pemula Basic",
+    "phone": "081234567807",
+    "bio": "Pelatih program pemula basic."
+  },
+  {
+    "id": "cch-Rofiq",
+    "name": "Coach Rofiq",
+    "role": "Pelatih Pemula Basic",
+    "phone": "081234567808",
+    "bio": "Pelatih program pemula basic."
+  },
+  {
+    "id": "cch-Bin",
+    "name": "Coach Bin",
+    "role": "Pelatih Pemula Moderate",
+    "phone": "081234567809",
+    "bio": "Pelatih program pemula moderate."
+  },
+  {
+    "id": "cch-Amal",
+    "name": "Coach Amal",
+    "role": "Pelatih Pemula Moderate",
+    "phone": "081234567810",
+    "bio": "Pelatih program pemula moderate."
+  }
+]

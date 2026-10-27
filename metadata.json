@@ -1,0 +1,6 @@
+{
+  "name": "SAC Garut Master Data",
+  "description": "Mobile directory and student management system for SAC Garut Swimming Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
